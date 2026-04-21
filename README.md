@@ -112,7 +112,7 @@ A video demonstration is included explaining:
 * Data cleaning steps
 * Dashboard visuals
 * Insights and analysis
-  video link:https://drive.google.com/file/d/18NO7ZM5K5QC07X6vIULlXWkvRRvWy1vJ/view?usp=sharing
+* video link:https://drive.google.com/file/d/18NO7ZM5K5QC07X6vIULlXWkvRRvWy1vJ/view?usp=sharing
 ---
 
 ##  Dataset
